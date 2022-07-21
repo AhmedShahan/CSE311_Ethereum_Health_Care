@@ -5,14 +5,15 @@
 ###### Faculty           : Tarek Ibne Mizan (TIM)
 ###### Lab Officer       : Sabbir Mollah
 
-
 `Please Install in you command Prompt`
 ```
     pip install pysimplegui
 ```
 ```
     pip install mysql-connector-python 
-                or
+```
+`or`
+```
     pip3 install mysql-connector-python
 ```
 
