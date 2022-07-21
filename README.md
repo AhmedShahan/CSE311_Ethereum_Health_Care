@@ -1,4 +1,4 @@
-# ETHEREUM HEALTH CARE MANAGEMENT SYSTEM <u><c>
+# ETHEREUM HEALTH CARE MANAGEMENT SYSTEM <u>
 #### Name of the Course: CSE-311
 #### Course Title      : Database Management Systems (DBMS) </br>
 #### Session           : Summer 2022
