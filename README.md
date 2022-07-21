@@ -1,2 +1,8 @@
 # CSE311_Ethereum_Health_Care
-## This repository contains my Project ,CSE311- Database Management System, name "Ethereum Health Care"
+####Name of the Course: CSE-311
+####Course Title      : Database Management Systems (DBMS)
+####Session           : Summer 2022
+####Faculty           : Tarek Ibne Mizan (TIM)
+####Lab Officer       : Sabbir Mollah
+
+
