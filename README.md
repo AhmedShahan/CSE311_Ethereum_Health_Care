@@ -17,8 +17,16 @@
     pip3 install mysql-connector-python
 ```
 
-<u><i><b> Software Components </b></i></u>
-1. Windows 11
-2. Xampp Control Panel
-3. Microsoft VS Code
-4. 
+### Tools and Resources
+<u><i><b> Software Requirement </b></i></u>
+Windows 11, Windows 10
+SQL Server
+Visual Studio Code
+Python IDE
+API for SMS
+Django
+Hardware Requirement
+Processor (minimum core i3)
+RAM (2 GB minimum)
+Graphics card (Integrated Intel Graphics)
+ 
