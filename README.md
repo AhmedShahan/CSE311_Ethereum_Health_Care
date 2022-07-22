@@ -18,7 +18,7 @@
 ```
 
 ### Tools and Resources  
-<p><i>
+<i>
 <u><i><b> Software Requirement </b></i></u>
 Windows 11, Windows 10  
 SQL Server  
@@ -30,4 +30,4 @@ Hardware Requirement
 Processor (minimum core i3)  
 RAM (2 GB minimum)  
 Graphics card (Integrated Intel Graphics)  
-</p></i>
+</i>
