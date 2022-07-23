@@ -1,6 +1,6 @@
 # __**Welcome to Ethereum Health Care**__
 ***  
-### Project Details  
+### Course Details  
 <p>
 Name of the Course: Database System Design (DBMS)</br>
 Course Code &nbsp : CSE 311</br>
