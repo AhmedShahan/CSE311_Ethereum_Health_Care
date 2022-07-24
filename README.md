@@ -1,6 +1,14 @@
 # __**Welcome to Ethereum Health Care**__
 ***  
-### Course Details  
+
+### Introduction  
+<body>
+Nowadays, the medical industry is one of the prominent sectors with a manual system for managing and maintaining critical information. Current medical systems require numerous paper forms, with data stories spread throughout the medical management infrastructure. However, manually sorting out all information and managing all data is tough since all of this data must be maintained on paper and can be lost at any time. Furthermore, manually adding, removing, or altering data is time-consuming and challenging. 
+It's quite challenging to merge all the medical history of a patient. In the same way, a patient who faces many times has to search for their desired doctor, and also, it's a big issue to make appointments. Ethereum Health Care ensures maximum flexibility to take over that kind of issue. 
+<body>
+
+
+### Course Details 
 <p>
 Name of the Course: Database System Design (DBMS)</br>
 Course Code &nbsp : CSE 311</br>
