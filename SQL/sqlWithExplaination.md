@@ -18,3 +18,14 @@ CREATE TABLE adminlog
 Why userId and pass both are in Primary key?
 There is no scope without creating a Admin without UserID and Password. 
 You cannot log in without password. Along with both username & password should be one for one user. 
+
+### Creating AdministrationLog Table
+```mysql
+CREATE TABLE AdministrationLog
+(
+    administrationID varchar(20),
+    administrationPass varchar(20),
+    
+    PRIMARY KEY (administrationID, administrationPass)
+);
+````
