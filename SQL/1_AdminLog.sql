@@ -1,3 +1,5 @@
+CREATE DATABASE ethereum;
+
 CREATE TABLE adminlog
 (
     userId varchar(20),
