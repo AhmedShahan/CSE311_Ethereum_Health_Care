@@ -15,4 +15,6 @@ CREATE TABLE adminlog
     PRIMARY KEY (userID, pass)
 );
 ````
-
+Why userId and pass both are in Primary key?
+There is no scope without creating a Admin without UserID and Password. 
+You cannot log in without password. Along with both username & password should be one for one user. 
