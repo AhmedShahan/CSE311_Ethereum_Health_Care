@@ -29,3 +29,11 @@ CREATE TABLE AdministrationLog
     PRIMARY KEY (administrationID, administrationPass)
 );
 ````
+### Creating specialist Table
+```mysql
+CREATE TABLE Specialist(
+    SpID int(3) AUTO_INCREMENT,
+    SpList varchar(20) UNIQUE,
+    PRIMARY KEY (SpID)
+    );
+````
