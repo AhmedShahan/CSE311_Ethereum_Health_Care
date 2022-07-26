@@ -37,3 +37,14 @@ CREATE TABLE Specialist(
     PRIMARY KEY (SpID)
     );
 ````
+
+### Creating Medical Degree Table
+```mysql
+CREATE TABLE medicalDegree(
+    MedID int(3) AUTO_INCREMENT,
+    DegreeList varchar(30),
+    Locations varchar(100),
+    Zip_Code int(5),
+    PRIMARY KEY (MedID)
+    );
+````
