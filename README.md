@@ -50,9 +50,9 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 |Processor (minimum core i3)|Windows 11, Windows 10|  
 |RAM (2 GB minimum)|SQL Server (XAMPP)|  
 |Graphics card (Integrated Intel Graphics)|Python IDE|  
-|--------|Code Editor(VS Code/PyCharm)|
-|--------|API for SMS|
-|--------|Django|
+||Code Editor(VS Code/PyCharm)|
+||API for SMS|
+||Django|
 
 |Python Librery|  
 |---------------|
