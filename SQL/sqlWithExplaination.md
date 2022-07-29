@@ -27,8 +27,8 @@ __So version II fixed it__
 ```mysql
 CREATE TABLE adminlog
 (
-    userId varchar(20),
-    pass varchar (20),
+    userId varchar(20) PRIMARY KEY,
+    pass varchar (20) UNIQUE,
 );
 ````
 ### Creating AdministrationLog Table
