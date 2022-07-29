@@ -22,7 +22,7 @@ But there is a problem, userId & pass 2 makes the fileds Unique.
 Example: userName= shahan@201   pass=840223    (This is allowed)</br>
 BUT      userName= shahan@201   pass=shahan    (This is not allowed)
 
-__So version II fixed it__
+<i>__So version II fixed it__</i>
 ### Creating AdminLog Table Version II
 ```mysql
 CREATE TABLE adminlog
