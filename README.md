@@ -1,13 +1,13 @@
 # __**Welcome to Ethereum Health Care**__
 ***  
 
-### Introduction  
+## Introduction  
 <p align="justify">
 Nowadays, the medical industry is one of the prominent sectors with a manual system for managing and maintaining critical information. Current medical systems require numerous paper forms, with data stories spread throughout the medical management infrastructure. However, manually sorting out all information and managing all data is tough since all of this data must be maintained on paper and can be lost at any time. Furthermore, manually adding, removing, or altering data is time-consuming and challenging. 
 It's quite challenging to merge all the medical history of a patient. In the same way, a patient who faces many times has to search for their desired doctor, and also, it's a big issue to make appointments. Ethereum Health Care ensures maximum flexibility to take over that kind of issue. 
 </p>
 
-### Project Details  
+## Project Details  
 ---
 <p align="justify">
 Ethereum Health Care tries to tackle several problems and make it easy to update data. There 
@@ -27,7 +27,7 @@ our challenge to ensure satisfactory security systems
 </p>
 
 
-### Course Details 
+## Course Details 
 ---
 <p>
 Name of the Course: Database System Design (DBMS)</br>
@@ -43,7 +43,7 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 
 
 
-### Tools & resources 
+## Tools & resources 
 --- 
 |Hardware|Software|  
 |--------|--------|
@@ -60,4 +60,5 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 |MYSQL-Connector: To connect my application with my database Engine <br>Install in your terminal <br>``` pip install mysql-connector-python ```|
 
 
-please add developer details
+## Developer Details
+---
