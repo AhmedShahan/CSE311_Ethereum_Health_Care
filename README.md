@@ -8,6 +8,7 @@ It's quite challenging to merge all the medical history of a patient. In the sam
 </p>
 
 ### Project Details  
+---
 <p align="justify">
 Ethereum Health Care tries to tackle several problems and make it easy to update data. There 
 will also be a few administrative areas where all medical information (doctors and patients) will 
@@ -27,6 +28,7 @@ our challenge to ensure satisfactory security systems
 
 
 ### Course Details 
+---
 <p>
 Name of the Course: Database System Design (DBMS)</br>
 Course Code &nbsp : CSE 311</br>
@@ -41,7 +43,8 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 
 
 
-### Tools & resources  
+### Tools & resources 
+--- 
 |Hardware|Software|  
 |--------|--------|
 |Processor (minimum core i3)|Windows 11, Windows 10|  
