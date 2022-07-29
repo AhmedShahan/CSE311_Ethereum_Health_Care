@@ -58,3 +58,6 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 |---------------|
 |PySimpleGui: For the base framework of the Applications<br>Install in your terminal<br>``` pip install PySimpleGUI ```|
 |MYSQL-Connector: To connect my application with my database Engine <br>Install in your terminal <br>``` pip install mysql-connector-python ```|
+
+
+please add developer details
