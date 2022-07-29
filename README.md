@@ -26,6 +26,8 @@ a brief overview of the doctors. Multiple security features are always our prior
 our challenge to ensure satisfactory security systems
 </p>
 
+### For Details See the Project Proposal:
+https://github.com/AhmedShahan/CSE311_Ethereum_Health_Care/blob/main/Project%20Proposal.pdf
 
 ## Course Details 
 ---
