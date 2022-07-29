@@ -5,7 +5,7 @@
 CREATE DATABASE ethereum;
 ```
 
-### Creating AdminLog Table
+### Creating AdminLog Table Version I
 ```mysql
 CREATE TABLE adminlog
 (
@@ -18,7 +18,19 @@ CREATE TABLE adminlog
 Why userId and pass both are in Primary key?
 There is no scope without creating a Admin without UserID and Password. 
 You cannot log in without password. Along with both username & password should be one for one user. 
+But there is a problem, userId & pass 2 makes the fileds Unique. 
+Example: userName= shahan@201   pass=840223    (This is allowed)</br>
+BUT      userName= shahan@201   pass=shahan    (This is not allowed)
 
+__So version II fixed it__
+### Creating AdminLog Table Version II
+```mysql
+CREATE TABLE adminlog
+(
+    userId varchar(20),
+    pass varchar (20),
+);
+````
 ### Creating AdministrationLog Table
 ```mysql
 CREATE TABLE AdministrationLog
