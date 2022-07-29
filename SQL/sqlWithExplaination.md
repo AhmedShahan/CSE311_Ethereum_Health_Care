@@ -42,7 +42,7 @@ CREATE TABLE Specialist(
 ```mysql
 CREATE TABLE medicalDegree(
     MedID int(3) AUTO_INCREMENT,
-    DegreeList varchar(30),
+    DegreeList varchar(30) UNIQUE,
     Locations varchar(100),
     Zip_Code int(5),
     PRIMARY KEY (MedID)
