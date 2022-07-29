@@ -28,7 +28,7 @@ __So version II fixed it__
 CREATE TABLE adminlog
 (
     userId varchar(20) PRIMARY KEY,
-    pass varchar (20) UNIQUE,
+    pass varchar (20) NOT NULL,
 );
 ````
 ### Creating AdministrationLog Table
