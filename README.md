@@ -60,5 +60,4 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 |MYSQL-Connector: To connect my application with my database Engine <br>Install in your terminal <br>``` pip install mysql-connector-python ```|
 
 
-## Developer Details
----
+
