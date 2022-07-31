@@ -1,5 +1,6 @@
 # __**Welcome to Ethereum Health Care**__
 ***  
+![eth](https://user-images.githubusercontent.com/109499842/181920210-9abe2a25-5c92-4d0c-93cb-c140250af20d.png)  
 
 ## Introduction  
 <p align="justify">
@@ -26,6 +27,8 @@ a brief overview of the doctors. Multiple security features are always our prior
 our challenge to ensure satisfactory security systems
 </p>
 
+### For Details See the Project Proposal:
+https://github.com/AhmedShahan/CSE311_Ethereum_Health_Care/blob/main/Project%20Proposal.pdf
 
 ## Course Details 
 ---
@@ -61,4 +64,8 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 
 
 ## Developer Details
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> d555d9bd44d327702c7e44fff996ccda97ce35f2

@@ -60,3 +60,13 @@ CREATE TABLE medicalDegree(
     PRIMARY KEY (MedID)
     );
 ````
+
+### To modify any column type
+```mysql
+ALTER TABLE table_name
+MODIFY COLUMN column_name datatype;
+````
+
+
+
+
