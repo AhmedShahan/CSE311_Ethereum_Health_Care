@@ -64,8 +64,5 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 
 
 ## Developer Details
-<<<<<<< HEAD
+***
 
-=======
----
->>>>>>> d555d9bd44d327702c7e44fff996ccda97ce35f2
