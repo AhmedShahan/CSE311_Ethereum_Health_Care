@@ -65,4 +65,7 @@ Faculty           : TIM (Tarek Ibne Mizan), Seniour Lecturer, North South Univer
 
 ## Developer Details
 ***
-
+|Shahan Ahmed|Nabila Rashid|
+|--|--|
+|Department of Electrical & Computer Engineering|Department of Electrical & Computer Engineering|
+|Major- Compuer Science & Engineering|Major- Compuer Science & Engineering|
