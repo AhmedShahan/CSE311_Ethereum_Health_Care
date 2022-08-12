@@ -1,1 +1,24 @@
-
+## Specialist List
+- Cardiologist
+- Gynecologist
+- Neurologist
+- Orthopedics
+- Radiologists
+- Psychiatrists
+- Pediatricians
+- Pathologists
+- Ophthalmologists
+- Oncologists
+- Nephrologists
+- Gastroenterologists
+- Endocrinologists
+- Dermatologists
+- Plastic Surgeons
+- Podiatrists
+- Preventive
+- Medicine Specialists
+- Pulmonologists
+- Radiologists
+- Rheumatologists
+- Urologists
+## Medical Degree List
