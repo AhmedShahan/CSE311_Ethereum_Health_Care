@@ -64,7 +64,7 @@ CREATE TABLE medicalDegree(
 ### To modify any column type
 ```mysql
 ALTER TABLE table_name
-MODIFY COLUMN column_name datatype;
+CHANGE old_filed_Name New_Field_Name datatype;
 ````
 
 
