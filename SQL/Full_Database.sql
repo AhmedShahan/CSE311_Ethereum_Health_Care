@@ -2,10 +2,8 @@ CREATE DATABASE ethereum;
 
 CREATE TABLE adminlog
 (
-    userId varchar(20),
+    userId varchar(20) PRIMARY KEY,
     pass varchar (20),
-    
-    PRIMARY KEY (userID, pass)
 );
 
 CREATE TABLE AdministrationLog
