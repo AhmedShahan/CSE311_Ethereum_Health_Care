@@ -22,3 +22,9 @@
 - Rheumatologists
 - Urologists
 ## Medical Degree List
+- BCS (Health)
+- MBBS
+- M PHIL
+- DIPLOMA
+- MD/MS
+- FCPS
